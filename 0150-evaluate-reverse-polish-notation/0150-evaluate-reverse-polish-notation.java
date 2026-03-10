@@ -24,6 +24,6 @@ class Solution {
                 res.push(Integer.parseInt(tk));
             }
         }
-        return res.peek();
+        return res.pop();
     }
 }
