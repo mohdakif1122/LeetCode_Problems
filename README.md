@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0901-online-stock-span/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Math
@@ -57,5 +58,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
