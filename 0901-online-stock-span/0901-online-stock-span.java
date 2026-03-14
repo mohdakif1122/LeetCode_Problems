@@ -1,34 +1,25 @@
-class node{
-    int price,span;
-    node next;
-    node(int price,int span){
-        this.price=price;
-        this.span=span;
-        this.next=null;
-    }
-}
 class StockSpanner {
-    node top;
+    Stack<int[]> stk;   //declare
     public StockSpanner() {
-        top=null;
+        stk = new Stack<>();    //initialize
+
     }
     
     public int next(int price) {
-        node nn;
-        int span=1;
-        while(top!=null&&top.price<=price){
-            span+=top.span;
-            top=top.next;
+        int count = 1;
+        if(stk.isEmpty()){
+            stk.push(new int[]{price , count});
+            return count;
         }
-        nn=new node(price,span);
-        nn.next=top;
-        top=nn;
-        return top.span;
+        else{
+            while(!stk.isEmpty() && stk.peek()[0] <= price){
+                count += stk.peek()[1];
+                // count++;
+                stk.pop();
+            }
+            stk.push(new int[]{price , count});
+            return count;
+        }
+        
     }
 }
-
-/**
- * Your StockSpanner object will be instantiated and called as such:
- * StockSpanner obj = new StockSpanner();
- * int param_1 = obj.next(price);
- */
