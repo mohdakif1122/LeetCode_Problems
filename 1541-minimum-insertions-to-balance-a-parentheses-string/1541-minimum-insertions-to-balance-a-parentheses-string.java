@@ -13,23 +13,20 @@ class Solution {
             if (ch == '(') {
                 open.push('(');
             } 
-            else { // ')'
+            else {
 
-                // check if this is "))"
                 boolean isPair = (i + 1 < s.length() && s.charAt(i + 1) == ')');
 
-                if (isPair) i++; // consume next ')'
-                else fin_ans++; // need one more ')'
+                if (isPair) i++; 
+                else fin_ans++;
 
                 if (!open.isEmpty()) {
-                    open.pop(); // match with '('
+                    open.pop();
                 } else {
-                    fin_ans++; // need to insert '('
+                    fin_ans++;
                 }
             }
         }
-
-        // remaining '(' need 2 ')'
         return fin_ans + (open.size() * 2);
     }
 }
