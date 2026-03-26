@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0901-online-stock-span/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -134,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
