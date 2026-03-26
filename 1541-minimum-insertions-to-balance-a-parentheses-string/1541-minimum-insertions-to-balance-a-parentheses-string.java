@@ -2,42 +2,34 @@ import java.util.*;
 
 class Solution {
     public int minInsertions(String s) {
+
         int fin_ans = 0;
-        Stack<Character> stk = new Stack<>();
-        StringBuilder ii = new StringBuilder(s);
+        Stack<Character> open = new Stack<>();
 
-        for (int i = 0; i < ii.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
 
-            if (ii.charAt(i) == '(') {
-                stk.push('(');
+            char ch = s.charAt(i);
+
+            if (ch == '(') {
+                open.push('(');
             } 
-            else {
+            else { // ')'
 
-                if (i + 1 < ii.length() && ii.charAt(i + 1) == ')') {
-                    i++;
+                // check if this is "))"
+                boolean isPair = (i + 1 < s.length() && s.charAt(i + 1) == ')');
 
-                    if (!stk.isEmpty()) {
-                        stk.pop();
-                    } else {
-                        fin_ans++;
-                    }
-                } 
-                else {
-                    fin_ans++;
+                if (isPair) i++; // consume next ')'
+                else fin_ans++; // need one more ')'
 
-                    if (!stk.isEmpty()) {
-                        stk.pop();
-                    } else {
-                        fin_ans++;
-                    }
+                if (!open.isEmpty()) {
+                    open.pop(); // match with '('
+                } else {
+                    fin_ans++; // need to insert '('
                 }
             }
         }
-        while (!stk.isEmpty()) {
-            stk.pop();
-            fin_ans += 2;
-        }
 
-        return fin_ans;
+        // remaining '(' need 2 ')'
+        return fin_ans + (open.size() * 2);
     }
 }
