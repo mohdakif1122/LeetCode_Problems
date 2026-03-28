@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2906-construct-product-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
