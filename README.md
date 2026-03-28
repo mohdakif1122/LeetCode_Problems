@@ -162,4 +162,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0620-not-boring-movies](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
