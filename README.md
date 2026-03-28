@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Counting Sort
