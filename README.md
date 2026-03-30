@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
