@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Hash Table
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
