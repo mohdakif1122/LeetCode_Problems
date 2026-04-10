@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
