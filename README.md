@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0027-remove-element/) | Easy |
+| [0283-move-zeroes](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
