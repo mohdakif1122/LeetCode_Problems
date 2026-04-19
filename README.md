@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -155,11 +156,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
