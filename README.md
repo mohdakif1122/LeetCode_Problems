@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
