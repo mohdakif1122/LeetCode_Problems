@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0796-rotate-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -203,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0620-not-boring-movies/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
