@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1861-rotating-the-box](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
