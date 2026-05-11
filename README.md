@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Hash Table
