@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
