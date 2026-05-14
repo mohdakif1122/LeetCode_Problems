@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
@@ -84,12 +86,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -126,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -194,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
