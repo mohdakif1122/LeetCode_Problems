@@ -8,13 +8,10 @@ class Solution {
                 count[nu]++;
             }
         }
-        System.out.print(Arrays.toString(count));
         List<Integer> res = new ArrayList<>();
-        // int[] demo = new int[2];
-
+        
         for(int i = 1 ; i < count.length ; i++){
-            if(count[i] == n)
-                res.add(i);
+            if(count[i] == n) res.add(i);
         }
         return res;
     }
