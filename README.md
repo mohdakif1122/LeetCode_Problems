@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
