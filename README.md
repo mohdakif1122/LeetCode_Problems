@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0066-plus-one/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0018-4sum/) | Medium |
 | [0179-largest-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
