@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
