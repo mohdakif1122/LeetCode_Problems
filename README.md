@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
