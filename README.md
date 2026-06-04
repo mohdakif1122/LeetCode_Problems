@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -245,12 +246,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
