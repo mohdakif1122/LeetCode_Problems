@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
