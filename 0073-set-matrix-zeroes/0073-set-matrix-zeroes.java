@@ -14,10 +14,10 @@ class Solution {
                 }
             }
         }
-        for(int row = 0 ; row < m ; row++){
-            for(int col = 0 ; col < n ; col++){
-                if(zerorow[row] || zerocol[col]){
-                    matrix[row][col] = 0;
+        for(int i = 0 ; i < m ; i++){
+            for(int j = 0 ; j < n ; j++){
+                if(zerorow[i] || zerocol[j]){
+                    matrix[i][j] = 0;
                 }
             }
         }
