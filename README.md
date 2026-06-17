@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3614-process-string-with-special-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3614-process-string-with-special-operations-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
