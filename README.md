@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0018-4sum/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
