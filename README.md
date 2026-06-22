@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0561-array-partition/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
