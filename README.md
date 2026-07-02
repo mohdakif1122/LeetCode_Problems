@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0645-set-mismatch/) | Easy |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0561-array-partition/) | Easy |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -370,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Depth-First Search
@@ -379,9 +383,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
