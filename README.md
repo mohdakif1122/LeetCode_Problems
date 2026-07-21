@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1260-shift-2d-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1470-shuffle-the-array/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1260-shift-2d-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1260-shift-2d-grid](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1861-rotating-the-box](https://github.com/mohdakif1122/LeetCode_Problems/tree/main/1861-rotating-the-box/) | Medium |
